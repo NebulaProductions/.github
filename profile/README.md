@@ -1,11 +1,13 @@
-## About us
+## 🚀 **About Us**
 We're Nebula Productions, a small team fueled by a **passion** for **gaming innovation**.
 
 Comprising a close-knit team of enthusiasts, we revel in crafting imaginative projects that orbit the realm of video games.
 
 From inventive game mods to pioneering game development tools, our collaborative spirit propels us to explore the vast expanse of gaming possibilities.
 
-[Join us](https://discord.gg/nebula-productions) as we journey through the nebulous landscape of creativity, where every commit sparks a new constellation of ideas.
+Our journey is driven by **collaboration and imagination**, pushing the limits of what’s possible in game development.  
+
+✨ [Join us](https://discord.gg/nebula-productions) as we journey through the nebulous landscape of creativity, where every commit sparks a new constellation of ideas! ✨ 
 
 <!--
 
